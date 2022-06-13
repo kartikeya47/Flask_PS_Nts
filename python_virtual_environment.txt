@@ -1,0 +1,6 @@
+Activate Python Virtual Environment through Git Bash on Windows -
+
+1) python -m venv "environment_folder_name_without_these_double_quotes"
+2) source "environment_folder_name_without_these_double_quotes"/Scripts/activate
+3) pip install "anything_without_these_double_quotes"
+4) Enjoy!!
